@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on open software project
 - 📫 How to reach me guilhermenatal47@gmail.com
 - 🌱 I’m currently working as a software developer full-stack
+- my personal page https://natal-tech.vercel.app/
 
 <!---
 gnatal/gnatal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
